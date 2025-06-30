@@ -59,7 +59,7 @@ https://spam-email-detection-webapp-f9jtfvjwnctbmjmvhdg457.streamlit.app
 ---
 📬 Contact
 
-Email: otripathi18000@gmail.com
+Email: rv3676446@gmail.com
 
-GitHub: @yourxom
+GitHub: @codeeurRitesh
 
