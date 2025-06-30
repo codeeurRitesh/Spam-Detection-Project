@@ -17,6 +17,10 @@ This project uses Natural Language Processing (NLP) and Machine Learning (ML) to
 ## 📁 Project Structure
 
 
+
+## 📁 Project Structure
+
+
 📦 spam-email-detection
 ├── models/
 │   ├── spam_classifier_model.pkl
@@ -25,6 +29,7 @@ This project uses Natural Language Processing (NLP) and Machine Learning (ML) to
 ├── app_streamlit_final_interpreted.py  # Streamlit Web App
 ├── Email Spam Detection.ipynb          # Jupyter Notebook
 ├── README.md                # Project Overview
+
 
 
 ---
